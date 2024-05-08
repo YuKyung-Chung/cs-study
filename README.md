@@ -43,25 +43,32 @@
 - [18. HashMap](https://github.com/YuKyung-Chung/cs-study/tree/ef7b37a7f493aef71b6b3cf891636c4e7e11cf84/Java/18.%20HashMap)<br/>
 - [19. CountDownLatch & CyclicBarrier](https://github.com/YuKyung-Chung/cs-study/tree/ef7b37a7f493aef71b6b3cf891636c4e7e11cf84/Java/19.%20CountDownLatch%20%26%20CyclicBarrier)<br/>
 
+## 📌 Network
+- [01. Computer Network Basic](https://github.com/YuKyung-Chung/cs-study/tree/70a2d3b663985a58810fce171f776c89e02ef749/Network/01.%20Computer%20Network%20Basic)<br/>
+- [02. Application Layer](https://github.com/YuKyung-Chung/cs-study/tree/70a2d3b663985a58810fce171f776c89e02ef749/Network/02.%20Application%20Layer)<br/>
+- [03. Transport Layer](https://github.com/YuKyung-Chung/cs-study/tree/70a2d3b663985a58810fce171f776c89e02ef749/Network/03.%20Transport%20Layer)<br/>
+- [04. Network Layer](https://github.com/YuKyung-Chung/cs-study/tree/70a2d3b663985a58810fce171f776c89e02ef749/Network/04.%20Network%20Layer)<br/>
+- [05. Link Layer](https://github.com/YuKyung-Chung/cs-study/tree/70a2d3b663985a58810fce171f776c89e02ef749/Network/05.%20Link%20Layer)<br/>
+- [06. Wireless & Mobile Networks](https://github.com/YuKyung-Chung/cs-study/tree/70a2d3b663985a58810fce171f776c89e02ef749/Network/06.%20Wireless%20%26%20Mobile%20Networks)<br/>
+- [07. Multimedia Network](https://github.com/YuKyung-Chung/cs-study/tree/70a2d3b663985a58810fce171f776c89e02ef749/Network/07.%20Multimedia%20Network)<br/>
+- [08. Network Security](https://github.com/YuKyung-Chung/cs-study/tree/70a2d3b663985a58810fce171f776c89e02ef749/Network/08.%20Network%20Security)<br/>
 
-## COMMIT RULES
+## 📌 DataBase
+- [B-tree & B+tree](https://github.com/YuKyung-Chung/cs-study/tree/70a2d3b663985a58810fce171f776c89e02ef749/DataBase/B-tree%26B%2Btree)<br/>
+- [DB Connection Pool](https://github.com/YuKyung-Chung/cs-study/tree/70a2d3b663985a58810fce171f776c89e02ef749/DataBase/DB%20Connection%20Pool)<br/>
+- [DBLocking](https://github.com/YuKyung-Chung/cs-study/tree/70a2d3b663985a58810fce171f776c89e02ef749/DataBase/DBLocking)<br/>
+- [RDB & NoSQL](https://github.com/YuKyung-Chung/cs-study/tree/70a2d3b663985a58810fce171f776c89e02ef749/DataBase/RDB%26NoSQL)<br/>
+- [Redis](https://github.com/YuKyung-Chung/cs-study/tree/70a2d3b663985a58810fce171f776c89e02ef749/DataBase/Redis)<br/>
+- [Trigger](https://github.com/YuKyung-Chung/cs-study/tree/70a2d3b663985a58810fce171f776c89e02ef749/DataBase/Trigger)<br/>
 
-| **태그**        | **설명**                                                                    |
-| --------------- | --------------------------------------------------------------------------- |
-| Feat            | 새로운 기능을 추가한 경우                                                   |
-| Fix             | 에러를 수정한 경우                                                          |
-| Design          | CSS 등 UI 디자인을 변경한 경우                                              |
-| HOTFIX          | 급하게 치명적인 에러를 고친 경우                                            |
-| Style           | 코드 포맷 변경을 하거나 세미 콜론 누락하여 추가하면서 코드 수정이 없는 경우 |
-| Refactor        | 코드를 리팩토링한 경우                                                      |
-| Comment         | 주석을 추가하거나 변경한 경우                                               |
-| Docs            | 문서를 수정한 경우                                                          |
-| Chore           | 기타 변경사항 (빌드 스크립트 수정, 패키지 매니징 설정 등)                   |
-| Rename          | 파일 or 폴더명 수정하거나 옮기는 경우                                       |
-| Remove          | 파일을 삭제하는 작업만 수행한 경우                                          |
-
-```
-docs: create README.md
-```
-- 제목의 처음은 동사 원형으로 시작합니다.
-- 문장의 끝에 특수문자는 삽입하지 않습니다. 예) ., !, ?
+## 📌 Design Pattern
+- [01. Singleton Pattern](https://github.com/YuKyung-Chung/cs-study/tree/70a2d3b663985a58810fce171f776c89e02ef749/Design%20Pattern/01.%20Singleton%20Pattern)<br/>
+- [02. Factory Pattern](https://github.com/YuKyung-Chung/cs-study/tree/70a2d3b663985a58810fce171f776c89e02ef749/Design%20Pattern/02.%20Factory%20Pattern)<br/>
+- [03. Strategy Pattern](https://github.com/YuKyung-Chung/cs-study/tree/70a2d3b663985a58810fce171f776c89e02ef749/Design%20Pattern/03.%20Strategy%20Pattern)<br/>
+- [04. Observer Pattern](https://github.com/YuKyung-Chung/cs-study/tree/70a2d3b663985a58810fce171f776c89e02ef749/Design%20Pattern/04.%20Observer%20Pattern)<br/>
+- [05. Proxy Pattern & Proxy Server](https://github.com/YuKyung-Chung/cs-study/tree/70a2d3b663985a58810fce171f776c89e02ef749/Design%20Pattern/05.%20Proxy%20Pattern%20%26%26%20Proxy%20Server)<br/>
+- [06. Iterator Pattern](https://github.com/YuKyung-Chung/cs-study/tree/70a2d3b663985a58810fce171f776c89e02ef749/Design%20Pattern/06.%20Iterator%20Pattern)<br/>
+- [07. Revealing Module Pattern](https://github.com/YuKyung-Chung/cs-study/tree/70a2d3b663985a58810fce171f776c89e02ef749/Design%20Pattern/07.%20Revealing%20Module%20Pattern)<br/>
+- [08. MVC Pattern](https://github.com/YuKyung-Chung/cs-study/tree/70a2d3b663985a58810fce171f776c89e02ef749/Design%20Pattern/08.%20MVC%20Pattern)<br/>
+- [09. MVP Pattern](https://github.com/YuKyung-Chung/cs-study/tree/70a2d3b663985a58810fce171f776c89e02ef749/Design%20Pattern/09.%20MVP%20Pattern)<br/>
+- [10. MVVM Pattern](https://github.com/YuKyung-Chung/cs-study/tree/70a2d3b663985a58810fce171f776c89e02ef749/Design%20Pattern/10.%20MVVM%20Pattern)<br/>
