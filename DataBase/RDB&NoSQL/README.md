@@ -1,7 +1,7 @@
 # RDB & NoSQL에서의 클러스터링/레플리케이션 방식
 
 ## RDB(Relational DataBase)
-- 관계형 데이터베이스로, 엑셀 시트처럼 빈칸에 내용을 쌓아가는 데어티방식을 뜻함 
+- 관계형 데이터베이스로, 엑셀 시트처럼 빈칸에 내용을 쌓아가는 데이터방식을 뜻함 
 - 일반적인 서비스에서 가장 많이 사용되는 DB타입
 - 미리 타입을 정해두고 그에 따라 데이터를 쌓기 때문에, 복잡한 계산 없이 효율적인 DB 설계가 가능
 
@@ -32,12 +32,12 @@
         ![제3정규화전](images/제3정규화전.png)  
         - ex) 제3 정규화 후  
         ![제3정규화후](images/제3정규화후.png)  
-    - BCNF(Boyce-Codd Normal Form)
+    - BCNF(Boyce-Codd Normal Form)  
         - 제3 정규화 만족 + 모든 결정자가 후보키 집합에 속해야 함.
-        - ex) BCNF 전  
-        ![BCNF전](images/BCNF전.png)
-        - ex) BCNF 후
-        ![BCNF후](images/BCNF후.png)
+        - ex) BCNF 전   
+        ![BCNF전](images/BCNF전.png)  
+        - ex) BCNF 후  
+        ![BCNF후](images/BCNF후.png)  
     - 제4정규화이상~
         - BCNF에서 더 나아간 정규화.
         - 이 이상은 잘 진행하지 않음.
